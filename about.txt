@@ -1,0 +1,1 @@
+Đây là dự án thực hành Git cơ bản: add, commit, checkout, reset và đồng bộ GitHub.
