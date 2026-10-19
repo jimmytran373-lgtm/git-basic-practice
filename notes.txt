@@ -1,0 +1,2 @@
+Ghi chú học Git: Working Directory -> Staging Area -> Repository.
+git add chọn nội dung; git commit lưu một phiên bản vào lịch sử.
